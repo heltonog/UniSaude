@@ -6,5 +6,5 @@
 	<artifactId>UniSaude</artifactId> <!-- É identificador do artefato que será gerado -->
 	<packaging>jar</packaging> <!-- Defini qual será o tipo de arquivo gerado no build -->
 	<version>0.1</version> <!-- Determinar a versão da aplicação -->
-	<url>https://github.com/heltonog/learnMaven</url> <!-- URL do projeto -->
+	<url>https://github.com/heltonog/UniSaude</url> <!-- URL do projeto -->
 </project>
